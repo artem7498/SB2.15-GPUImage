@@ -1,0 +1,20 @@
+PODS:
+  - EVGPUImage2 (0.2.0)
+  - GPUImage (0.1.7)
+
+DEPENDENCIES:
+  - EVGPUImage2
+  - GPUImage
+
+SPEC REPOS:
+  trunk:
+    - EVGPUImage2
+    - GPUImage
+
+SPEC CHECKSUMS:
+  EVGPUImage2: 1e057f25fbab811b8a9e98d19f96bbd5eb434913
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+
+PODFILE CHECKSUM: a96aa2864d57a28ebbccf02f3d5a862139aa4259
+
+COCOAPODS: 1.10.1
